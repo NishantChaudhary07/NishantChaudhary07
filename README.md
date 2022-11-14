@@ -12,7 +12,7 @@ I am Nishant Chaudhary, currently pursuing my B.Tech degree in Computer Science 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=NishantChaudhary07&label=Profile%20views&color=129e00&style=plastic" alt="NishantChaudhary07" /> </p> -->
 
 ## 👨🏻‍💻 Coding Profiles
-<a href="https://leetcode.com/MayankSaraswat" target="_blank"> <img style="width: 100px;" src="https://miro.medium.com/max/1400/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode image"></a>
+<a href="https://leetcode.com/chaudharynishant" target="_blank"> <img style="width: 100px;" src="https://miro.medium.com/max/1400/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode image"></a>
 
 ## Connect With Me:
 
